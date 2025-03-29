@@ -25,3 +25,4 @@ This HR Dashboard App is built using Python's Dash framework, Plotly, and Dash B
    - **Salary Distribution**: Boxplot of salaries by department and gender for the selected year.
    - **Performance-based Salary Analysis**: Bar chart displaying average salary based on performance scores.
 
+# Contributor: Huy Nguyen
